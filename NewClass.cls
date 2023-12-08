@@ -4,7 +4,7 @@
   *
   */
 public class NewClass {
-
+/* for all new fields */
   Integer newField;
 
   public NewClass(Integer value){
